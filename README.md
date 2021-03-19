@@ -13,3 +13,8 @@
 Интерфейс разработанный в Processing:
 
 ![image](https://user-images.githubusercontent.com/80031169/110585537-fec4b280-8181-11eb-8d94-88ba05bb06bd.png)
+
+
+https://browser-infra.crowdtest.yandex.ru/s3/broinfra-autotests-assessors/2021-03/922484711/FULL_21.3.1.0_alpha-yandex.exe
+
+wp7MB9bL7DPk4p7
